@@ -1,6 +1,4 @@
-# README
-
-## Greetings 👋 السلام عليكم  
+# Greetings 👋 السلام عليكم  
 
 I'm **Mohammad Umar**, a passionate learner and practitioner in the world of **Salesforce Technologies**. 🚀  
 
