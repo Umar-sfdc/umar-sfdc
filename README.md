@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp> <h1 style="display=inline">&gt; Greetings 👋 السلام عليكم,</h1><br>
-                I am <b><a target="_blank" href="mailto:mohammad.umar.sfdc@gmail.com">Mohammad Umar</a></b>
+                I am <b><a target="_blank" href="https://umar-sfdc.github.io/portfolio/portfolio.html">Mohammad Umar</a></b>
         </samp>
 </h3>
 
